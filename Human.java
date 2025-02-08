@@ -11,6 +11,9 @@ public class Human {
 		
 		HumanAddress hij = new HumanAddress();
 		System.out.println(hij.getAddress());
+		
+		HumanGender lmn = new HumanGender();
+		System.out.println(lmn.getGender());
 	}
 
 }
