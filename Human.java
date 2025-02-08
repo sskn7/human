@@ -8,6 +8,9 @@ public class Human {
 		
 		HumanAge efg = new HumanAge();
 		System.out.println(efg.getAge());
+		
+		HumanAddress hij = new HumanAddress();
+		System.out.println(hij.getAddress());
 	}
 
 }
